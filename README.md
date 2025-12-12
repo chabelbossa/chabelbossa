@@ -1,7 +1,7 @@
 <!-- Bannière ou image -->
  
 
-<h1 align="center">👋 Salut, je suis Bossa Chabel (alias chabelesther)</h1>
+<h1 align="center">👋 Salut, je suis Bossa Chabel (alias chabelbossa)</h1>
 <p align="center">
   Développeur Web & Mobile | Passionné par les technologies modernes | Fondateur de <a href="https://chester-dev.com/">Chester Dev</a>
 </p>
@@ -44,10 +44,10 @@
 ## 📈 Statistiques GitHub  
  
 <p align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=chabelesther&show_icons=true&theme=radical&hide_rank=true" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chabelesther&show_icons=true&locale=en&layout=compact" alt="chabelesther" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=chabelbossa&show_icons=true&theme=radical&hide_rank=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chabelbossa&show_icons=true&locale=en&layout=compact" alt="chabelbossa" />
   <br/>
-  <img align="center" src="https://streak-stats.demolab.com/?user=chabelesther&theme=radical" alt="GitHub Streak" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=chabelbossa&theme=radical" alt="GitHub Streak" />
   
  
   <br/> 
@@ -70,7 +70,7 @@
   <a href="mailto:contact@chester-dev.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" /></a>
   <a href="https://chester-dev.com/"><img src="https://img.shields.io/badge/Portfolio-Chester--Dev-green?style=for-the-badge&logo=vercel" /></a>
   <a href="https://www.linkedin.com/in/chabel-bossa"><img src="https://img.shields.io/badge/LinkedIn-Chabel%20Bossa-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-@ChabelEsther-1DA1F2?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-@chabelbossa-1DA1F2?style=for-the-badge&logo=twitter" /></a>
 </p>
 
 ---
@@ -83,5 +83,5 @@
 
 ## 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://github.com/chabelesther/chabelesther/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/chabelbossa/chabelbossa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
