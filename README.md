@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:282C3E,100:F28100&height=230&section=header&text=Chabel%20Bossa&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%7C%20SaaS%20Builder%20%7C%20Web%2C%20Mobile%20%26%20Desktop&descSize=18&descAlignY=58" alt="Chabel Bossa - Full-Stack Software Engineer" />
+  <img src="./assets/hero.svg" alt="Chabel Bossa - Full-Stack Software Engineer" width="100%" />
 </p>
 
 <p align="center">
@@ -7,10 +7,6 @@
   <a href="mailto:chabeldev@gmail.com"><img src="https://img.shields.io/badge/Email-chabeldev%40gmail.com-282C3E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/chabel-holdo-bossa"><img src="https://img.shields.io/badge/LinkedIn-Chabel%20Bossa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Remote-International-111827?style=for-the-badge&logo=github&logoColor=white" alt="Remote International" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2600&pause=700&color=F28100&center=true&vCenter=true&width=920&lines=I+turn+ambitious+ideas+into+shipped+software.;React+%2F+Angular+frontends.+NestJS+%2F+Spring+Boot+backends.;SaaS%2C+mobile%2C+desktop%2C+automation%2C+and+systems+that+hold+up.;Clean+UX.+Strong+architecture.+Real+delivery." alt="Typing animation" />
 </p>
 
 ---
@@ -152,16 +148,20 @@ The best conversations to have with me:
 
 ## Connect
 
+If the work above matches what you are building, the fastest path is simple:
+
+| What you need | Best place to go |
+|---|---|
+| **Start a conversation** | [Email me directly](mailto:chabeldev@gmail.com) |
+| **See my work and positioning** | [Visit chester-dev.com](https://www.chester-dev.com/) |
+| **Connect professionally** | [Find me on LinkedIn](https://www.linkedin.com/in/chabel-holdo-bossa) |
+
 <p align="center">
-  <a href="mailto:chabeldev@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20build%20something-282C3E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Chabel" /></a>
-  <a href="https://www.chester-dev.com/"><img src="https://img.shields.io/badge/Portfolio-See%20my%20world-F28100?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/chabel-holdo-bossa"><img src="https://img.shields.io/badge/LinkedIn-Talk%20to%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:chabeldev@gmail.com"><img src="https://img.shields.io/badge/Email-chabeldev%40gmail.com-282C3E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Chabel" /></a>
+  <a href="https://www.chester-dev.com/"><img src="https://img.shields.io/badge/Portfolio-chester--dev.com-F28100?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/chabel-holdo-bossa"><img src="https://img.shields.io/badge/LinkedIn-Chabel%20Bossa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
-  <strong>Respect the craft. Judge the shipped work.</strong>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F28100,55:282C3E,100:111827&height=120&section=footer" alt="Footer wave" />
+  <img src="./assets/footer.svg" alt="Respect the craft. Judge the shipped work." width="100%" />
 </p>

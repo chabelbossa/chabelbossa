@@ -1,0 +1,59 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Chabel Bossa - Full-Stack Software Engineer</title>
+  <desc id="desc">A premium profile banner for Chabel Bossa, full-stack software engineer building SaaS, web, mobile, and desktop products.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset="0.52" stop-color="#282C3E"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="144" y1="308" x2="1104" y2="52" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F28100"/>
+      <stop offset="0.52" stop-color="#FFB15C"/>
+      <stop offset="1" stop-color="#F28100"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(920 74) rotate(139) scale(430 260)">
+      <stop stop-color="#F28100" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#F28100" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#050816" flood-opacity="0.42"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="30" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="30" fill="url(#glow)"/>
+
+  <path d="M0 277C164 226 290 247 460 270C642 294 792 296 1200 197V360H0V277Z" fill="#FFFFFF" fill-opacity="0.05"/>
+  <path d="M0 300C202 248 397 319 604 282C836 240 982 227 1200 255V360H0V300Z" fill="url(#accent)" fill-opacity="0.13"/>
+
+  <g filter="url(#softShadow)">
+    <rect x="70" y="64" width="1060" height="232" rx="26" fill="#0F172A" fill-opacity="0.62" stroke="#FFFFFF" stroke-opacity="0.10"/>
+  </g>
+
+  <circle cx="1002" cy="106" r="58" fill="#F28100" fill-opacity="0.10"/>
+  <circle cx="1002" cy="106" r="34" fill="#F28100" fill-opacity="0.16"/>
+  <path d="M984 106H1020M1002 88V124" stroke="#F28100" stroke-width="5" stroke-linecap="round"/>
+
+  <text x="110" y="122" fill="#F28100" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" letter-spacing="5">
+    FULL-STACK SOFTWARE ENGINEER
+  </text>
+  <text x="108" y="181" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="62" font-weight="900" letter-spacing="-1">
+    Chabel Bossa
+  </text>
+  <text x="112" y="222" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" font-weight="700">
+    SaaS builder · Web, mobile &amp; desktop products
+  </text>
+  <text x="112" y="253" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">
+    React / Angular frontends · NestJS / Spring Boot backends
+  </text>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="800" letter-spacing="2">
+    <rect x="112" y="276" width="176" height="38" rx="19" fill="#F28100"/>
+    <text x="139" y="300" fill="#FFFFFF">REMOTE-FIRST</text>
+    <rect x="302" y="276" width="188" height="38" rx="19" fill="#1F2937" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="327" y="300" fill="#FFFFFF">INTERNATIONAL</text>
+    <rect x="504" y="276" width="190" height="38" rx="19" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="529" y="300" fill="#FFFFFF">PRODUCT-MINDED</text>
+  </g>
+</svg>

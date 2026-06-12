@@ -1,0 +1,34 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Chabel Bossa profile footer</title>
+  <desc id="desc">A clean footer visual with a dark background and orange accent line.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="180" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="0.58" stop-color="#282C3E"/>
+      <stop offset="1" stop-color="#0B1020"/>
+    </linearGradient>
+    <linearGradient id="line" x1="120" y1="42" x2="1080" y2="42" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F28100" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#F28100"/>
+      <stop offset="0.8" stop-color="#F28100"/>
+      <stop offset="1" stop-color="#F28100" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="180" rx="26" fill="url(#bg)"/>
+  <path d="M0 126C194 86 352 143 560 120C792 94 960 65 1200 97V180H0V126Z" fill="#F28100" fill-opacity="0.13"/>
+  <path d="M0 146C204 113 374 158 620 138C842 120 1024 108 1200 134V180H0V146Z" fill="#FFFFFF" fill-opacity="0.05"/>
+
+  <rect x="120" y="41" width="960" height="2" rx="1" fill="url(#line)"/>
+  <text x="600" y="78" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="900">
+    Respect the craft.
+  </text>
+  <text x="600" y="112" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="900">
+    Judge the shipped work.
+  </text>
+  <text x="600" y="145" text-anchor="middle" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">
+    Available for remote full-stack opportunities and ambitious software products.
+  </text>
+  <circle cx="1020" cy="42" r="5" fill="#F28100"/>
+  <circle cx="180" cy="42" r="5" fill="#F28100"/>
+</svg>
