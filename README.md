@@ -1,87 +1,167 @@
-<!-- Bannière ou image -->
- 
-
-<h1 align="center">👋 Salut, je suis Bossa Chabel (alias chabelbossa)</h1>
 <p align="center">
-  Développeur Web & Mobile | Passionné par les technologies modernes | Fondateur de <a href="https://chester-dev.com/">Chester Dev</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:282C3E,100:F28100&height=230&section=header&text=Chabel%20Bossa&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%7C%20SaaS%20Builder%20%7C%20Web%2C%20Mobile%20%26%20Desktop&descSize=18&descAlignY=58" alt="Chabel Bossa - Full-Stack Software Engineer" />
+</p>
+
+<p align="center">
+  <a href="https://www.chester-dev.com/"><img src="https://img.shields.io/badge/Portfolio-chester--dev.com-F28100?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:chabeldev@gmail.com"><img src="https://img.shields.io/badge/Email-chabeldev%40gmail.com-282C3E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/chabel-holdo-bossa"><img src="https://img.shields.io/badge/LinkedIn-Chabel%20Bossa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Remote-International-111827?style=for-the-badge&logo=github&logoColor=white" alt="Remote International" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2600&pause=700&color=F28100&center=true&vCenter=true&width=920&lines=I+turn+ambitious+ideas+into+shipped+software.;React+%2F+Angular+frontends.+NestJS+%2F+Spring+Boot+backends.;SaaS%2C+mobile%2C+desktop%2C+automation%2C+and+systems+that+hold+up.;Clean+UX.+Strong+architecture.+Real+delivery." alt="Typing animation" />
 </p>
 
 ---
 
-## 🚀 À propos de moi  
-- 🌍 Basé au **Bénin (Afrique de l’Ouest)**.  
-- 🎓 Étudiant en **génie mathématique et modélisation** et passionné de **développement web & mobile**.  
-- 💻 Spécialisé en **Next.js**, **React**, **React Native (Expo)** et **NestJS**.  
-- 🔭 Actuellement :  
-  - Développement de plateformes modernes comme **Alogo**, **U-STIM** et **Qampus**.  
-  - Expérimentation avec **Drizzle ORM**, **NeonDB**, **Firebase**, **ShadCN UI**, et **QStash** pour des architectures robustes et scalables.  
-- 💡 Intéressé par : **UI/UX minimalistes**, **PWA performantes**, et **solutions SaaS**.  
-- 🌐 Portfolio : [chester-dev.com](https://chester-dev.com/)  
+## The Short Version
 
----
+I am **Chabel Holdo Bossa**, a remote-first **Full-Stack Software Engineer** from Benin building production-grade software across **web, mobile, desktop, and SaaS platforms**.
 
-## 🛠️ Tech Stack & Outils  
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nestjs,nodejs,express,drizzle,postgres,mongodb,prisma,tailwind,materialui,shadcn,firebase,supabase,vercel,docker,git,github,figma,vscode,postman,linux,nginx,graphql,redis,aws,azure" /> </p>
+My edge is simple: I do not just write screens and endpoints. I connect product thinking, clean architecture, user experience, and delivery discipline until the thing actually works in the real world.
 
-- **Frontend :** React, Next.js, Tailwind CSS, ShadCN UI  
-- **Mobile :** React Native (Expo)  
-- **Backend :** NestJS, Drizzle ORM, NeonDB, Firebase  
-- **DevOps & Outils :** Vercel, GitHub Actions, QStash, Figma  
-- **Autres :** JWT, Auth.js, Stripe, WebSocket pour le temps réel  
+> **Give me a messy product problem. I will turn it into flows, APIs, interfaces, and systems people can trust.**
 
----
-
-## 📌 Projets phares *(sélection)*  
-> 🔒 *Certains dépôts sont privés, mais voici un aperçu de mon travail :*  
-
-- **Alogo** – Plateforme de mise en relation étudiants ↔ recruteurs (Next.js 15 + Drizzle ORM + NeonDB).  
-- **U-STIM** – Réseau social académique pour les universités béninoises, version PWA moderne.  
-- **Qampus** – Réseau social académique avec un modèle économique innovant.  
-- **ERP Pharmacie** – Application Electron.js + NestJS pour gestion de stocks et facturation.  
-
----
-
-## 📈 Statistiques GitHub  
- 
 <p align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=chabelbossa&show_icons=true&theme=radical&hide_rank=true" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chabelbossa&show_icons=true&locale=en&layout=compact" alt="chabelbossa" />
-  <br/>
-  <img align="center" src="https://streak-stats.demolab.com/?user=chabelbossa&theme=radical" alt="GitHub Streak" />
-  
- 
-  <br/> 
-</p>
-<p align="center">
-- 🔒 La plupart de mes projets sont privés (startups et clients).  
-- Voici quelques technologies utilisées : Next.js, NestJS, React Native, Drizzle ORM, NeonDB.  
-- Contacte-moi via [chester-dev.com](https://chester-dev.com/) pour un aperçu ou une démo privée.
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,tailwind,nodejs,nestjs,java,spring,express,postgres,mongodb,mysql,sqlite,docker,git,github,firebase,supabase,figma,linux" alt="Core technology stack" />
 </p>
 
 ---
 
-## ✍️ Derniers articles / réflexions  
-- 🚧 *À venir :* Publication de blogs techniques sur Next.js, optimisations de performance et bonnes pratiques.  
+## Why People Should Pay Attention
+
+<table>
+  <tr>
+    <td><strong>Product range</strong></td>
+    <td>Web apps, SaaS platforms, mobile apps, desktop ERPs, dashboards, automation systems, and payment integrations.</td>
+  </tr>
+  <tr>
+    <td><strong>Engineering range</strong></td>
+    <td>Frontend, backend, APIs, databases, authentication, offline sync, CI/CD, cloud tooling, and technical architecture.</td>
+  </tr>
+  <tr>
+    <td><strong>Current direction</strong></td>
+    <td>Full-stack roles and remote opportunities where React, Angular, NestJS, Spring Boot, and product execution matter.</td>
+  </tr>
+  <tr>
+    <td><strong>Signal</strong></td>
+    <td>Smart Cities Hackathon FRIARE, Cotonou: 3rd Prize, April 2025, with RoadControl, an urban traffic analysis solution.</td>
+  </tr>
+</table>
 
 ---
 
-## 🌐 Connecte-toi avec moi  
+## What I Can Own End-to-End
+
+| Area | What I ship | Tools I use |
+|---|---|---|
+| **Product Frontends** | SaaS dashboards, admin panels, onboarding flows, responsive product UIs, PWAs | React, Next.js, Angular, TypeScript, Tailwind CSS |
+| **Backends & APIs** | REST APIs, auth, business logic, payment workflows, messaging systems, integrations | Node.js, NestJS, Express.js, Fastify, Java, Spring Boot, Spring Security |
+| **Data & Persistence** | Relational schemas, document models, local storage, offline-ready flows | PostgreSQL, MongoDB, MySQL, SQLite, JPA/Hibernate |
+| **Mobile & Desktop** | Cross-platform mobile apps, desktop ERPs, offline-first experiences | React Native, Expo, Electron.js, Kotlin, Swift |
+| **Delivery & Tooling** | Git workflows, containers, CI/CD, Firebase/Supabase integrations, deployment pipelines | Git, GitHub, Docker, CI/CD, Firebase, Supabase |
+
+---
+
+## Selected Work That Shows the Range
+
+| Project | What I built | Why it matters |
+|---|---|---|
+| **Locapay** | Real estate management SaaS built and maintained with Next.js and NestJS | Business platform with real users, mobile PWA optimization, and production constraints |
+| **PharmaOps** | Desktop pharmacy ERP with Electron.js and React | Stock management with FEFO logic, billing workflows, and offline data synchronization |
+| **WaChap** | WhatsApp marketing automation SaaS integrated with Shopify and GoHighLevel | Automation architecture designed for high message volumes and commercial workflows |
+| **YesCars** | Fleet management platform with web admin and mobile experience | End-to-end product design for operational vehicle management |
+| **PayForBet** | Local payment integrations with KkiaPay and Feexpay | Payment infrastructure inside web architectures for local market realities |
+| **RoadControl** | Smart Cities hackathon project for urban traffic analysis | Award-winning teamwork, applied problem solving, and civic-tech execution |
+
+Most of my serious work is private because it belongs to clients, startups, or active products. The public GitHub is the surface. The shipped systems are the proof.
+
+---
+
+## My Engineering Operating System
+
+```txt
+1. Clarify the product goal before touching the code.
+2. Design the smallest architecture that can survive real usage.
+3. Build interfaces that feel obvious, fast, and trustworthy.
+4. Keep APIs predictable, documented, and easy to extend.
+5. Optimize for delivery without sacrificing maintainability.
+6. Communicate clearly, especially when the problem is still blurry.
+```
+
+I like software that feels calm on the outside and disciplined on the inside: clean UX, readable code, strong data flow, and architecture that does not collapse when the product grows.
+
+---
+
+## Current Stack Focus
+
 <p align="center">
-  <a href="mailto:contact@chester-dev.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://chester-dev.com/"><img src="https://img.shields.io/badge/Portfolio-Chester--Dev-green?style=for-the-badge&logo=vercel" /></a>
-  <a href="https://www.linkedin.com/in/chabel-bossa"><img src="https://img.shields.io/badge/LinkedIn-Chabel%20Bossa-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-@chabelbossa-1DA1F2?style=for-the-badge&logo=twitter" /></a>
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Angular-F28100?style=for-the-badge" alt="Frontend stack" />
+  <img src="https://img.shields.io/badge/Backend-NestJS%20%7C%20Spring%20Boot%20%7C%20Node.js-282C3E?style=for-the-badge" alt="Backend stack" />
+  <img src="https://img.shields.io/badge/Mobile-React%20Native%20%7C%20Expo-111827?style=for-the-badge" alt="Mobile stack" />
+  <img src="https://img.shields.io/badge/Desktop-Electron.js-F28100?style=for-the-badge" alt="Desktop stack" />
+</p>
+
+```ts
+const chabel = {
+  role: "Full-Stack Software Engineer",
+  location: "Benin, building internationally",
+  mode: "remote-first",
+  frontend: ["React", "Next.js", "Angular", "TypeScript", "Tailwind CSS"],
+  backend: ["Node.js", "NestJS", "Java", "Spring Boot", "Spring Security", "REST APIs"],
+  mobileAndDesktop: ["React Native", "Expo", "Electron.js", "Kotlin", "Swift"],
+  databases: ["PostgreSQL", "MongoDB", "MySQL", "SQLite"],
+  loves: ["SaaS", "clean UX", "reliable architecture", "shipping fast", "learning hard"],
+};
+```
+
+---
+
+## GitHub Pulse
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=chabelbossa&show_icons=true&theme=transparent&hide_border=true&title_color=F28100&icon_color=F28100&text_color=111827" alt="Chabel Bossa GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chabelbossa&layout=compact&theme=transparent&hide_border=true&title_color=F28100&text_color=111827" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=chabelbossa&theme=transparent&hide_border=true&ring=F28100&fire=F28100&currStreakLabel=F28100" alt="GitHub streak" />
 </p>
 
 ---
 
-## 💡 Citations préférées  
-> "La simplicité est la sophistication suprême." – Léonard de Vinci  
-> "Le meilleur moyen de prédire l’avenir, c’est de le créer." – Peter Drucker  
+## If You Are Hiring, Start Here
+
+I am a strong fit for teams that need someone who can move across the stack and still care deeply about the product.
+
+- You need a **frontend engineer** who understands APIs and product constraints.
+- You need a **backend engineer** who can design practical services and integrations.
+- You need a **full-stack builder** who can turn ambiguity into a shipped product.
+- You need someone comfortable with **remote collaboration**, ownership, and fast learning.
+
+The best conversations to have with me:
+
+- Building SaaS products from zero to usable.
+- Creating polished React, Next.js, or Angular interfaces.
+- Designing NestJS or Spring Boot APIs.
+- Making mobile, desktop, and offline-first workflows feel reliable.
+- Turning a rough idea into a real product plan.
 
 ---
 
-## 🐍 Contribution Snake  
+## Connect
+
 <p align="center">
-  <img src="https://github.com/chabelbossa/chabelbossa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <a href="mailto:chabeldev@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20build%20something-282C3E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Chabel" /></a>
+  <a href="https://www.chester-dev.com/"><img src="https://img.shields.io/badge/Portfolio-See%20my%20world-F28100?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/chabel-holdo-bossa"><img src="https://img.shields.io/badge/LinkedIn-Talk%20to%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<p align="center">
+  <strong>Respect the craft. Judge the shipped work.</strong>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F28100,55:282C3E,100:111827&height=120&section=footer" alt="Footer wave" />
 </p>
