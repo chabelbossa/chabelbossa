@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Chabel Bossa - Backend and Full-Stack Software Engineer moving toward AI systems" width="100%" />
+  <img src="./assets/hero.svg" alt="Chabel Bossa - Backend and Full-Stack Software Engineer with AI systems, automation, and mathematical modeling" width="100%" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ I am **Chabel Holdo Bossa**, a remote-first **Backend & Full-Stack Software Engi
 
 My strongest base is software engineering: **TypeScript, NestJS, Spring Boot, React, React Native, PostgreSQL, APIs, product architecture, and real-world delivery**.
 
-My current direction is clear: I am moving deeper into **AI systems engineering**: connecting backend systems with LLMs, automation, transcription, data workflows, retrieval, evaluation, and applied mathematical reasoning.
+My AI systems work focuses on connecting backend systems with **LLMs, automation, transcription, data workflows, retrieval, evaluation, and applied mathematical reasoning**.
 
 I do not just write screens and endpoints. I connect product thinking, clean architecture, data modeling, user experience, and delivery discipline until the system works in the real world.
 
@@ -41,12 +41,12 @@ I do not just write screens and endpoints. I connect product thinking, clean arc
     <td>NestJS, Spring Boot, REST APIs, PostgreSQL, authentication, integrations, business workflows, data modeling, and reliable service architecture.</td>
   </tr>
   <tr>
-    <td><strong>AI direction</strong></td>
-    <td>Growing seriously into applied AI, LLM integrations, AI-powered workflows, automation systems, transcription, retrieval, evaluation, and AI backend architecture.</td>
+    <td><strong>AI systems signal</strong></td>
+    <td>Applied AI, LLM integrations, AI-powered workflows, automation systems, transcription, retrieval, evaluation, and AI backend architecture.</td>
   </tr>
   <tr>
     <td><strong>Mathematical edge</strong></td>
-    <td>Engineering student in mathematical engineering and modeling, with interests in algorithms, optimization, operations research, statistics, and stochastic modeling.</td>
+    <td>Mathematical engineering and modeling background, with algorithmic thinking, optimization, operations research, statistics, and stochastic modeling.</td>
   </tr>
   <tr>
     <td><strong>Proof of execution</strong></td>
@@ -70,21 +70,21 @@ I do not just write screens and endpoints. I connect product thinking, clean arc
 
 ---
 
-## AI, Data & Mathematical Engineering Direction
+## AI, Data & Mathematical Engineering
 
-I am currently strengthening my profile at the intersection of **backend engineering, applied AI, data systems, and mathematical modeling**.
+I work at the intersection of **backend engineering, applied AI, data systems, and mathematical modeling**.
 
-My goal is not to use AI as a buzzword. I am interested in the engineering work required to make AI useful inside real products: reliable APIs, structured data flows, model integrations, automation, evaluation, monitoring, and business workflows.
+I do not use AI as a buzzword. I focus on the engineering work required to make AI useful inside real products: reliable APIs, structured data flows, model integrations, automation, evaluation, monitoring, and business workflows.
 
-| Area | What I am building toward | Current tools / interests |
+| Area | What I deliver | Tools / methods |
 |---|---|---|
 | **AI Integrations** | Connecting AI models to real applications, assistants, transcription workflows, dashboards, and internal tools | OpenAI, Gemini, Whisper, Python, TypeScript, APIs |
 | **LLM Applications** | Structured outputs, business assistants, retrieval workflows, automation, and human-in-the-loop systems | LLM APIs, prompt design, tool calling, JSON schemas, backend orchestration |
 | **Data & Modeling** | Using data structures, statistical reasoning, and mathematical modeling to support better product decisions | PostgreSQL, Python, statistics, optimization, stochastic modeling |
-| **AI Systems Engineering** | Moving from simple AI API usage to production-ready AI systems with evaluation, reliability, observability, and cost control | RAG, evals, logging, queues, monitoring, backend architecture |
+| **AI Systems Engineering** | Production-ready AI systems with evaluation, reliability, observability, and cost control | RAG, evals, logging, queues, monitoring, backend architecture |
 | **Mathematical Foundation** | Connecting software engineering with algorithmic thinking, operations research, optimization, and applied modeling | Mathematical engineering, algorithms, operations research, numerical thinking |
 
-I am especially interested in roles and projects where backend engineering meets AI:
+I am especially strong in roles and projects where backend engineering meets AI:
 
 - AI-powered SaaS products
 - LLM applications and agentic workflows
@@ -93,7 +93,7 @@ I am especially interested in roles and projects where backend engineering meets
 - fintech, payments, risk, and fraud automation
 - product engineering with strong technical ownership
 
-My long-term direction is to grow from **Backend / Full-Stack Software Engineer** into **AI Backend Engineer**, **AI Systems Engineer**, and eventually **ML/AI infrastructure-oriented roles**.
+The positioning is deliberate: **backend/full-stack ownership with AI systems, automation, and applied mathematical reasoning built into the product architecture**.
 
 ---
 
@@ -132,7 +132,7 @@ I like software that feels calm on the outside and disciplined on the inside: cl
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Angular-F28100?style=for-the-badge" alt="Frontend stack" />
   <img src="https://img.shields.io/badge/Backend-NestJS%20%7C%20Spring%20Boot%20%7C%20Node.js-282C3E?style=for-the-badge" alt="Backend stack" />
-  <img src="https://img.shields.io/badge/AI-Applied%20AI%20%7C%20LLM%20Workflows%20%7C%20Automation-F28100?style=for-the-badge" alt="Applied AI direction" />
+  <img src="https://img.shields.io/badge/AI-Applied%20AI%20%7C%20LLM%20Systems%20%7C%20Automation-F28100?style=for-the-badge" alt="Applied AI systems" />
   <img src="https://img.shields.io/badge/Mobile-React%20Native%20%7C%20Expo-111827?style=for-the-badge" alt="Mobile stack" />
   <img src="https://img.shields.io/badge/Desktop-Electron.js-F28100?style=for-the-badge" alt="Desktop stack" />
 </p>
@@ -150,7 +150,7 @@ const chabel = {
     databases: ["PostgreSQL", "MongoDB", "MySQL", "SQLite"],
   },
 
-  aiDirection: [
+  aiSystems: [
     "LLM integrations",
     "AI-powered workflows",
     "transcription systems",
@@ -160,7 +160,7 @@ const chabel = {
     "AI evaluation",
   ],
 
-  mathematicalInterests: [
+  mathematicalFoundation: [
     "algorithms",
     "optimization",
     "operations research",
@@ -175,11 +175,11 @@ const chabel = {
     "reliable backend architecture",
     "AI systems",
     "shipping fast",
-    "learning hard",
+    "high-agency delivery",
   ],
 
-  currentTrajectory:
-    "From backend/full-stack engineering toward AI Backend, AI Systems, and applied AI infrastructure.",
+  positioning:
+    "Backend/full-stack engineer with applied AI systems, automation, and mathematical modeling in the architecture.",
 };
 ```
 
@@ -205,8 +205,8 @@ I am a strong fit for teams that need someone who can move across the stack whil
 - You need a **backend engineer** who can design APIs, business logic, data models, integrations, and reliable services.
 - You need a **full-stack engineer** who understands frontend, mobile, backend, and product constraints.
 - You need someone who can work on **SaaS platforms, dashboards, automation systems, payment workflows, and internal tools**.
-- You need an engineer who is growing seriously into **AI-powered products, LLM integrations, automation, and AI systems engineering**.
-- You need someone comfortable with **remote collaboration, ownership, fast learning, and technical communication**.
+- You need an engineer who can contribute to **AI-powered products, LLM integrations, automation, and AI systems engineering**.
+- You need someone comfortable with **remote collaboration, ownership, execution speed, and technical communication**.
 
 The best conversations to have with me:
 

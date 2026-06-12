@@ -1,6 +1,6 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Chabel Bossa - Backend and Full-Stack Software Engineer</title>
-  <desc id="desc">A premium profile banner for Chabel Bossa, backend and full-stack software engineer moving toward applied AI systems, automation, and mathematical modeling.</desc>
+  <desc id="desc">A premium profile banner for Chabel Bossa, backend and full-stack software engineer working across applied AI systems, automation, and mathematical modeling.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#0B1020"/>
@@ -45,7 +45,7 @@
     SaaS · APIs · automation · web, mobile &amp; desktop
   </text>
   <text x="112" y="253" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">
-    NestJS / Spring Boot · AI systems direction · mathematical modeling
+    NestJS / Spring Boot · AI systems · mathematical modeling
   </text>
 
   <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="800" letter-spacing="2">
