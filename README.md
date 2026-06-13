@@ -7,6 +7,7 @@
   <a href="mailto:chabeldev@gmail.com"><img src="https://img.shields.io/badge/Email-chabeldev%40gmail.com-282C3E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/chabel-holdo-bossa"><img src="https://img.shields.io/badge/LinkedIn-Chabel%20Bossa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Remote-International-111827?style=for-the-badge&logo=github&logoColor=white" alt="Remote International" />
+  <img src="https://komarev.com/ghpvc/?username=chabelbossa&style=for-the-badge&color=F28100&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
