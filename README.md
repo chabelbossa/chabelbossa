@@ -99,16 +99,16 @@ The positioning is deliberate: **backend/full-stack ownership with AI systems, a
 
 ## Selected Work That Shows the Range
 
-| Project | What I built | Why it matters |
+| Scope | What I built | Why it matters |
 |---|---|---|
-| **Locapay** | Real estate management SaaS built and maintained with Next.js and NestJS | Business platform with real users, mobile PWA optimization, and production constraints |
-| **PharmaOps** | Desktop pharmacy ERP with Electron.js and React | Stock management with FEFO logic, billing workflows, and offline data synchronization |
-| **WaChap** | WhatsApp marketing automation SaaS integrated with Shopify and GoHighLevel | Automation architecture designed for high message volumes and commercial workflows |
-| **YesCars** | Fleet management platform with web admin and mobile experience | End-to-end product design for operational vehicle management |
-| **PayForBet** | Local payment integrations with KkiaPay and Feexpay | Payment infrastructure inside web architectures for local market realities |
+| **Confidential real estate SaaS** | Product workflows, admin interfaces, backend services, and mobile-friendly user experience | Business platform with real users, operational constraints, and production delivery |
+| **Confidential pharmacy operations ERP** | Inventory logic, billing workflows, desktop experience, and offline-ready data handling | Operational software where reliability, stock accuracy, and continuity matter |
+| **Confidential marketing automation platform** | Messaging workflows, integrations, campaign automation, and scalable backend flows | Automation system designed for high-volume business communication |
+| **Confidential fleet management platform** | Web administration, mobile workflows, and operational dashboards | End-to-end platform for managing assets, users, and business processes |
+| **Confidential payment workflow integrations** | Local payment flows, transaction handling, and service integration inside web platforms | Payment infrastructure adapted to real market constraints |
 | **RoadControl** | Smart Cities hackathon project for urban traffic analysis | Award-winning teamwork, applied problem solving, and civic-tech execution |
 
-Most of my serious work is private because it belongs to clients, startups, or active products. The public GitHub is the surface. The shipped systems are the proof.
+Most of my serious work is private because it belongs to clients, startups, or active products. I protect client confidentiality: no private screenshots, no client-owned source code, no sensitive technical architecture, and no details that can expose a partner or customer. The public GitHub is the surface. The shipped systems are the proof.
 
 ---
 
